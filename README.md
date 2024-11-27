@@ -5,6 +5,13 @@
 
 The AI Child Bracelet is a wearable device designed to assist children with Autism Spectrum Disorder (ASD) and Attention Deficit Hyperactivity Disorder (ADHD) during hyperfocus episodes. By using a machine learning-based voice recognition system, it detects specific voices (e.g., caregivers or teachers) and provides gentle vibration cues to help redirect the child’s attention, improving situational awareness without forceful disruptions.
 
+
+<img width="608" alt="Screenshot 2024-11-27 at 11 50 12 PM" src="https://github.com/user-attachments/assets/c5091f07-43a8-4bc7-9c00-117cdab1ade0">
+
+
+
+
+
 # Features
 
 Voice Recognition: Detects specific voices and activates responses.

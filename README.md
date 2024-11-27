@@ -35,8 +35,16 @@ To get started with the AI Child Bracelet, clone the repository and install the 
 Clone the repository:
 
 git clone https://github.com/yourusername/AI_child.bracelet.git
+
+
 Install required libraries:
+
+
 pip install -r requirements.txt
+
+
 Run the main script:
+
+
 python main.py
 
